@@ -1,0 +1,11 @@
+{
+  "name": "vaishnavi-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Vaishnavi N - Video Editor",
+  "scripts": {
+    "build": "echo 'Build script completed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
